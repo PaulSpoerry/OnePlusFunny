@@ -1,0 +1,4 @@
+OnePlusFunny
+============
+
+Joking via JQuery
